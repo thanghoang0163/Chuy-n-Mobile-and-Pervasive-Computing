@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\demoUWPApp\demoUWP.Core\bin\Debug\netstandard2.0\demoUWP.Core.deps.json
+C:\Users\Admin\source\repos\demoUWPApp\demoUWP.Core\bin\Debug\netstandard2.0\demoUWP.Core.dll
+C:\Users\Admin\source\repos\demoUWPApp\demoUWP.Core\bin\Debug\netstandard2.0\demoUWP.Core.pdb
+C:\Users\Admin\source\repos\demoUWPApp\demoUWP.Core\obj\Debug\netstandard2.0\demoUWP.Core.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\demoUWPApp\demoUWP.Core\obj\Debug\netstandard2.0\demoUWP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\demoUWPApp\demoUWP.Core\obj\Debug\netstandard2.0\demoUWP.Core.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\demoUWPApp\demoUWP.Core\obj\Debug\netstandard2.0\demoUWP.Core.AssemblyInfo.cs
+C:\Users\Admin\source\repos\demoUWPApp\demoUWP.Core\obj\Debug\netstandard2.0\demoUWP.Core.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\demoUWPApp\demoUWP.Core\obj\Debug\netstandard2.0\demoUWP.Core.dll
+C:\Users\Admin\source\repos\demoUWPApp\demoUWP.Core\obj\Debug\netstandard2.0\demoUWP.Core.pdb
