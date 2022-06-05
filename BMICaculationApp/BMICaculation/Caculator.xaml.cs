@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
@@ -47,13 +48,14 @@ namespace BMICaculation
             }
             else
             {
-                height = float.Parse(textHeight.Text);
-                if (height < 0 || height > 3)
+                height = float.Parse(textHeight.Text, CultureInfo.InvariantCulture.NumberFormat);
+                //height = (float)Convert.ToDouble(textHeight.Text);
+                if (height < 0 || height >= 3)
                 {
                     textNote.Text = "Chiều cao hư cấu! Vui lòng nhập lại.";
                 }
-                weight = float.Parse(textWeight.Text);
-                if (weight < 0 || weight > 1000)
+                weight = float.Parse(textWeight.Text, CultureInfo.InvariantCulture.NumberFormat);
+                if (weight < 0 || weight >= 1000)
                 {
                     textNote.Text = "Cân nặng hư cấu! Vui lòng nhập lại.";
 
