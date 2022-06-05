@@ -38,7 +38,7 @@
         Description="BMICaculation"
         BackgroundColor="transparent">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png"/>
-        <uap:SplashScreen Image="Assets\bmi.jpg"/>
+        <uap:SplashScreen Image="Assets\bmi.jpg" BackgroundColor="#FDFFFF"/>
       </uap:VisualElements>
     </Application>
   </Applications>
